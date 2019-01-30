@@ -1,5 +1,5 @@
 
-# Deep Convolutional Variational Autoencoders- Code along
+# Deep Convolutional Variational Autoencoders- Codealong
 
 ## Introduction
 Variational autoencoders (VAEs) can be used to visualize high-dimensional data in a meaningful, lower-dimensional space. In this lab, we will look at constructing and training a deep VAE on the MNIST data. We'll see how the data cluster in the lower-dimensional space according to their digit class. 
